@@ -1,3 +1,5 @@
+This project is licensed under the CC BY-NC 4.0 License. Commercial use is NOT permitted
+
 # neubrutalismWebsite
 A simple neubrutalism demonstrating the usage of display flex and making a responsive website
 
